@@ -1,0 +1,17 @@
+body {
+    background-color: darkgrey;
+    color: yellow;
+}
+
+h1 {
+    color: pink;
+}
+h6 {
+    color: blue;
+}
+p {
+    color: brown;
+}
+.purple {
+    color: purple;
+}
